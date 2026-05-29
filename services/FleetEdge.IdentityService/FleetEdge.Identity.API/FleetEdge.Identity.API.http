@@ -1,0 +1,6 @@
+@FleetEdge.Identity.API_HostAddress = http://localhost:5258
+
+GET {{FleetEdge.Identity.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

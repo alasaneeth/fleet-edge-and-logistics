@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/services/" />
+  <Folder Name="/services/FleetEdge.IdentityService/">
+    <Project Path="services/FleetEdge.IdentityService/FleetEdge.Identity.API/FleetEdge.Identity.API.csproj" />
+    <Project Path="services/FleetEdge.IdentityService/FleetEdge.Identity.Application/FleetEdge.Identity.Application.csproj" />
+    <Project Path="services/FleetEdge.IdentityService/FleetEdge.Identity.Domain/FleetEdge.Identity.Domain.csproj" />
+    <Project Path="services/FleetEdge.IdentityService/FleetEdge.Identity.Infrastructure/FleetEdge.Identity.Infrastructure.csproj" />
+  </Folder>
+</Solution>
