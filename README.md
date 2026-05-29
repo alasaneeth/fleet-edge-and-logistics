@@ -4,7 +4,7 @@
 > Built with .NET 8 Microservices · Angular 21 · Docker · RabbitMQ
 
 ![.NET](https://img.shields.io/badge/.NET-8.0-512BD4?style=flat-square&logo=dotnet)
-![Angular](https://img.shields.io/badge/Angular-17-DD0031?style=flat-square&logo=angular)
+![Angular](https://img.shields.io/badge/Angular-21-DD0031?style=flat-square&logo=angular)
 ![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?style=flat-square&logo=docker)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-MassTransit-FF6600?style=flat-square&logo=rabbitmq)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-2022-CC2927?style=flat-square&logo=microsoftsqlserver)
